@@ -1,7 +1,7 @@
 # Ignorar todas as pastas
 */
 
-# Exceto as pastas memcards e sstates. 
+# Exceto as pastas memcards e sstates:
 # OBS: se quiser trackear outras pastas para outros emuladores, só colocar nessa lista com o !NomePasta/ 
 !memcards/
 !sstates/
